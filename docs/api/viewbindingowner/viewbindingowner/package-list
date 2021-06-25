@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.teobaranga.viewbindingowner////PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/index.html
+$dokka.location:com.teobaranga.viewbindingowner//viewBinding/com.teobaranga.viewbindingowner.ViewBindingOwner#/PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/view-binding.html
+$dokka.location:com.teobaranga.viewbindingowner/ViewBindingOwner///PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/-view-binding-owner/index.html
+$dokka.location:com.teobaranga.viewbindingowner/ViewBindingOwner/viewBindingProvider/#/PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/-view-binding-owner/view-binding-provider.html
+$dokka.location:com.teobaranga.viewbindingowner/ViewBindingProvider///PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/-view-binding-provider/index.html
+$dokka.location:com.teobaranga.viewbindingowner/ViewBindingProvider/get/#kotlin.reflect.KClass[TypeParam(bounds=[androidx.viewbinding.ViewBinding])]/PointingToDeclaration/viewbindingowner/com.teobaranga.viewbindingowner/-view-binding-provider/get.html
+com.teobaranga.viewbindingowner
+

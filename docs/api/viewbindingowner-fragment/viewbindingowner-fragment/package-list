@@ -1,0 +1,11 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.teobaranga.viewbindingowner.fragment////PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/index.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider///PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/index.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider/FragmentViewBindingProvider/#/PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/-fragment-view-binding-provider.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider/get/#kotlin.reflect.KClass[TypeParam(bounds=[androidx.viewbinding.ViewBinding])]/PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/get.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?/PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/on-create-view.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider/onDestroyView/#/PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/on-destroy-view.html
+$dokka.location:com.teobaranga.viewbindingowner.fragment/FragmentViewBindingProvider/onViewCreated/#android.view.View/PointingToDeclaration/viewbindingowner-fragment/com.teobaranga.viewbindingowner.fragment/-fragment-view-binding-provider/on-view-created.html
+com.teobaranga.viewbindingowner.fragment
+

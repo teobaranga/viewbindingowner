@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.teobaranga.viewbindingowner.activity////PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/index.html
+$dokka.location:com.teobaranga.viewbindingowner.activity/ActivityViewBindingProvider///PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/-activity-view-binding-provider/index.html
+$dokka.location:com.teobaranga.viewbindingowner.activity/ActivityViewBindingProvider/ActivityViewBindingProvider/#/PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/-activity-view-binding-provider/-activity-view-binding-provider.html
+$dokka.location:com.teobaranga.viewbindingowner.activity/ActivityViewBindingProvider/get/#kotlin.reflect.KClass[TypeParam(bounds=[androidx.viewbinding.ViewBinding])]/PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/-activity-view-binding-provider/get.html
+$dokka.location:com.teobaranga.viewbindingowner.activity/ActivityViewBindingProvider/onCreate/#android.view.LayoutInflater/PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/-activity-view-binding-provider/on-create.html
+$dokka.location:com.teobaranga.viewbindingowner.activity/ActivityViewBindingProvider/onDestroy/#/PointingToDeclaration/viewbindingowner-activity/com.teobaranga.viewbindingowner.activity/-activity-view-binding-provider/on-destroy.html
+com.teobaranga.viewbindingowner.activity
+
