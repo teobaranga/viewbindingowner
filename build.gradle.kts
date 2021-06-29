@@ -1,4 +1,7 @@
 import com.android.build.api.dsl.LibraryExtension
+import com.vanniktech.maven.publish.MavenPublishPlugin
+import com.vanniktech.maven.publish.MavenPublishPluginExtension
+import com.vanniktech.maven.publish.SonatypeHost
 import org.jetbrains.dokka.gradle.DokkaMultiModuleTask
 import org.jetbrains.dokka.gradle.DokkaTaskPartial
 
@@ -62,6 +65,14 @@ subprojects {
     }
 }
 
+allprojects {
+    // Always publish to the new Sonatype S01 server
+    plugins.withType<MavenPublishPlugin> {
+        extensions.configure<MavenPublishPluginExtension> {
+            sonatypeHost = SonatypeHost.S01
+        }
+    }
+}
 
 fun Project.configureDefaultAndroid() {
     extensions.configure<LibraryExtension>("android") {
